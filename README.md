@@ -1,6 +1,6 @@
 # 🚀 Webpack + Babel + ESLint + Jest Starter Template
 A modern dev setup template for JavaScript projects with zero fluff – includes Webpack, Babel, ESLint, and Jest. Perfect for building side hustles, MVPs, and whatever you’re cooking up.
----
+
 ## 🧠 What's in the Box
 ### Webpack: Bundles your code like a champ.
 
